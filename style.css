@@ -15,7 +15,7 @@ nav li {
 }
 
 header {
-    background-color: mediumorchid;
+    background-color: black;
     display: flex;
     flex-direction: row;
     align-items: center;
